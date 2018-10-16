@@ -1,12 +1,12 @@
 ﻿# Contributors
  
 - [Bill E. Dawson](https://github.com/billedawson)
-- [imbassi][https://github.com/imbassi]
+- [imbassi](https://github.com/imbassi)
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [YamitSi](https://github.com/yamitsi)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
 - [AnnChar](https://github.com/annchar)
-- [Nicholas Carnival] (https://github.com/majorderp4)
+- [Nicholas Carnival](https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
 - [punisher](https://github.com/punisherpbb)
 - [Lakshay Wadhwa](http://github.com/luck-u)
