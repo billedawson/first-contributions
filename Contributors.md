@@ -1,6 +1,7 @@
 ﻿# Contributors
-
-  [imbassi][https://github.com/imbassi]
+ 
+- [Bill E. Dawson](https://github.com/billedawson)
+- [imbassi][https://github.com/imbassi]
 - [Abhishek P](https://github.com/Abhishek-Prem)
 - [YamitSi](https://github.com/yamitsi)
 - [Aaditya Varshney](https://github.com/AadityaVarshney)
